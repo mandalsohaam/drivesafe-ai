@@ -1,5 +1,5 @@
 ### 🌐 Click Here for Live Demo on Netlify
-https://drivesafe-ai-v10-0.netlify.app
+https://drivesafe-ai-v10-0.netlify.app (especially for mobile phones)
 
 # drivesafe-ai
 # 🚗 DriveSafe AI v10.0 — Flagship Navigation & Safety Telemetry Engine
